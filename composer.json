@@ -1,6 +1,6 @@
 {
     "name": "dynamikaweb/yii2-youtube",
-    "description": "environment for use with youtube, has validators, helpers, apis...",
+    "description": "environment for use with youtube, has validators, helpers, apis, widgets...",
     "type": "yii2-extension",
     "keywords": [
         "dynamika",
