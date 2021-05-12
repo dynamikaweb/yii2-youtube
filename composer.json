@@ -14,6 +14,11 @@
             "name": "RodrigoDornelles",
             "email": "rodrigo@dornelles.me",
             "role": "Developer"
+        },
+        {
+            "name": "Robson Soares",
+            "email": "contato@robsonsoares.dev.br",
+            "role": "Developer"
         }
     ],
     "support": {
@@ -21,8 +26,8 @@
         "source": "http://github.com/dynamikaweb/yii2-youtube"
     },
     "require": {
-        "php": ">=5.5.0",
-        "yiisoft/yii2": "*"
+        "yiisoft/yii2": "*",
+        "sr1871/yii2-youtube-api": "dev-master"
     },
     "minimum-stability": "dev",
     "prefer-stable": false,
