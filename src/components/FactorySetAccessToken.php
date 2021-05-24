@@ -12,7 +12,7 @@ class FactorySetAccessToken
         }
 
         return function($client){ 
-            file_put_contents('pathFile.txt', json_encode($client->getAccessToken()));
+            file_put_contents('youtube-token.json', json_encode($client->getAccessToken()));
         };
     }
 }

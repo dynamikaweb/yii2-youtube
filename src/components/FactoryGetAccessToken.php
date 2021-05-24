@@ -12,7 +12,7 @@ class FactoryGetAccessToken
         }
 
         return function(){ 
-            return file_get_contents('pathFile.txt');
+            return file_get_contents('youtube-token.json');
         };
     }
 }
